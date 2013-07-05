@@ -1,2 +1,0 @@
-WordPress-Hosting-Monitor-plugin
-================================
